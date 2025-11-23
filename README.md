@@ -27,6 +27,7 @@ The credit is required for final exam admission and is awarded upon obtaining at
 - **Laboratory 7** - [Secret Sharing](labs/lab7/README.md)
 - **Laboratory 8** - [Secure Multiparty Computation](labs/lab8/README.md)
 - **Laboratory 9** - [Blockchain](labs/lab9/README.md)
+- **Laboratory 10** - [Smart Contracts and Cryptocurrencies](labs/lab10/README.md)
 ---
 
 ## Classes:
@@ -42,6 +43,7 @@ The credit is required for final exam admission and is awarded upon obtaining at
   - **Lecture 8** - [Secure Multiparty Computation](https://moodle.vut.cz/pluginfile.php/1234499/mod_resource/content/1/8.pdf)
 - [Decentralized Systems Cycles]
   - **Lecture 9** - [Blockchain and Smart contracts](https://moodle.vut.cz/pluginfile.php/1235716/mod_resource/content/1/Class%209%20-%20Blockchain.pdf)
+  - **Lecture 10** - [Cryptocurrency](https://moodle.vut.cz/pluginfile.php/955102/mod_resource/content/3/MOK_Course_Cryptocurrency.pdf)
 --- 
 
 ## Projects:
